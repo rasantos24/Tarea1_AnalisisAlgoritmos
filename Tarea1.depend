@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1493047710 source:c:\users\rafael\documents\tarea1\test.cpp
+	"Test.h"
+
+1493047710 c:\users\rafael\documents\tarea1\test.h
+	<iostream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1493098322 source:c:\users\rafael\documents\tarea1\main.cpp
+	"Test.h"
+	<iostream>
+
